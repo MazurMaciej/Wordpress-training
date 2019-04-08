@@ -1,2 +1,1 @@
-# Wordpress-training
-# Wordpress-training
+# Wordpress-training - first file to training
